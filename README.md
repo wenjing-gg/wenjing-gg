@@ -55,7 +55,7 @@
 | | 论文 |
 | :---: | :--- |
 | <a href="https://arxiv.org/abs/2512.02497"><img src="assets/tta-benchmark.jpg" width="220" alt="TTA Benchmark"/></a> | **A Large Scale Benchmark for Test Time Adaptation Methods in Medical Image Segmentation**<br/>**Wenjing Yu**, Shuo Jiang, Yifei Chen, *et al.* ![arXiv](https://img.shields.io/badge/arXiv-2512.02497-b31b1b?style=flat-square) |
-| <a href="#"><img src="assets/mtc-wtnet.jpg" width="220" alt="MTC-WTNet"/></a> | **MTC-WTNet: A Multitask Collaboration Framework for Wilms' Tumor Segmentation and Preoperative Assessment**<br/>在审 |
+| <a href="#"><img src="assets/mtc-wtnet.jpg" width="220" alt="MTC-WTNet"/></a> | **MTC-WTNet: A Multitask Collaboration Framework for Wilms' Tumor Segmentation and Preoperative Metastasis Prediction**<br/>在审 |
 | <a href="https://arxiv.org/abs/2509.17925"><img src="assets/smart.jpg" width="220" alt="SmaRT"/></a> | **SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation**<br/>![arXiv](https://img.shields.io/badge/arXiv-2509.17925-b31b1b?style=flat-square) |
 
 **🧾 发明专利**：已申请 6 项，其中**第一发明人** 1 项（基于 DR-TTA 的神经胶质瘤分割测试时适应方法）
